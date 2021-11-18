@@ -6,9 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Intro
 
-Hello, my name is Jimmie Randle DePriest, but I like to go by Randy.
+Hello, my name is Jimmie Randle DePriest, but I like to go by Randy. I currently live in Alamo, TN.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Resume
 
 ```markdown
 Syntax highlighted code block
