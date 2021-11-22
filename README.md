@@ -13,8 +13,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### Resume
 
 ### Project Samples
-![Image](https://github.com/jimrdepr/jimrdepr.github.io/screenshot (84).png)
-![Image](https://github.com/jimrdepr/jimrdepr.github.io/screenshot (85).png)
+![Image](/jimrdepr.github.io/screenshot (84).png)
+![Image](/jimrdepr.github.io/screenshot (85).png)
 ```markdown
 Syntax highlighted code block
 
