@@ -13,7 +13,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### Resume
 
 ### Project Samples
-![Image](src)
+![Image](screenshot (84).png)
+![Image](screenshot (85).png)
 ```markdown
 Syntax highlighted code block
 
