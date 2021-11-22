@@ -12,6 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Resume
 
+### Project Samples
+
 ```markdown
 Syntax highlighted code block
 
