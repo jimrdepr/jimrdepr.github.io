@@ -8,8 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Hello, my name is Jimmie Randle DePriest, but I like to go by Randy. I am a Computer Science major from the University of Tennessee at Martin.
 
-
 ### Resume
+![Image](/resume.png)
 
 ### Project Samples - Mark the Mighty
 Mark the Mighty is a RPG web game that features a maze, enemies, and combat.
