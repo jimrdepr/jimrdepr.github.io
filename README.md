@@ -11,5 +11,6 @@ Hello, my name is Jimmie Randle DePriest, but I like to go by Randy. I am a Comp
 Mark the Mighty is a RPG web game inspired by the classic Zelda games. 
 It features a maze, enemies, and combat. 
 This game was built in Unity and is currently being hosted on the web using firebase.
+[here](https://mark-the-mighty.firebaseapp.com)
 ![Image](/pic1.png)
 ![Image](/pic2.png)
