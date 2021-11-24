@@ -12,5 +12,6 @@ Hello, my name is Jimmie Randle DePriest, but I like to go by Randy. I am a Comp
 ### Resume
 
 ### Project Samples - Mark the Mighty
+Mark the Mighty is a RPG web game that features a maze, enemies, and combat.
 ![Image](/pic1.png)
 ![Image](/pic2.png)
