@@ -8,7 +8,8 @@ I am a Computer Science student from the University of Tennessee at Martin.
 My current intrests include web devlopment, information technology, and game design.
 
 ### Resume
-![Image](/Resume.pdf)
+![Image](/resume1.png)
+![Image](/resume2.png)
 
 ### Project Samples - Mark the Mighty
 Mark the Mighty is a RPG web game inspired by the classic Zelda games. 
