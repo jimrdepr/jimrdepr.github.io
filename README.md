@@ -1,5 +1,3 @@
-[editor on GitHub](https://github.com/jimrdepr/jimrdepr.github.io/edit/main/README.md)
-
 ### Info
 
 Hello, my name is Jimmie Randle DePriest, but I like to go by Randy. 
@@ -14,7 +12,7 @@ My current intrests include web devlopment, information technology, and game des
 ### Project Samples - Mark the Mighty
 Mark the Mighty is a RPG web game inspired by the classic Zelda games. 
 It features a maze, npc's with dialogue, enemies, and combat elements. 
-This game was built in Unity and is currently being hosted on the web using firebase.
+This game was built in Unity and is currently being hosted on the web using Firebase.
 Click [here](https://mark-the-mighty.firebaseapp.com) to play the game.
 
 ##### Title screen
