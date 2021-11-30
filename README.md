@@ -1,5 +1,5 @@
 ### Info
-<img align="right" width="33%" src="https://jimrdepr.github.io/me.jpeg"> 
+<img align="right" width="33%" height="33%" src="https://jimrdepr.github.io/me.jpeg"> 
 Hello, my name is Jimmie Randle DePriest, but I like to go by Randy. 
 I am a Computer Science student from the University of Tennessee at Martin.
 I'm currently living in Alamo, TN.
