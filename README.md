@@ -5,7 +5,10 @@ I'm currently living in Alamo, TN.
 I am a Computer Science student from the University of Tennessee at Martin.
 My current intrests include web devlopment, information technology, and game design.
 
-### Resume
+### Links
+- [Resume](https://jimrdepr.github.io/Resum.pdf)
+- - [Github](https://jimrdepr.github.io/mark-the-mighty)
+- - [LinkedIn](https://jimrdepr.github.io/mark-the-mighty)
 
 
 ### Projects
