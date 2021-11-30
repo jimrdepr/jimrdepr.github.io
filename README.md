@@ -7,8 +7,8 @@ My current intrests include web devlopment, information technology, and game des
 
 ### Links
 - [Resume](https://jimrdepr.github.io/Resum.pdf)
-- - [Github](https://jimrdepr.github.io/mark-the-mighty)
-- - [LinkedIn](https://jimrdepr.github.io/mark-the-mighty)
+- [Github](https://jimrdepr.github.io/mark-the-mighty)
+- [LinkedIn](https://jimrdepr.github.io/mark-the-mighty)
 
 
 ### Projects
