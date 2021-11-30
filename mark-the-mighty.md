@@ -1,3 +1,3 @@
 layout: page
 title: "Mark the Mighty"
-permalink: /mark-the-mighty/
+permalink: /https://jimrdepr.github.io/mark-the-mighty/
