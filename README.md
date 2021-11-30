@@ -6,7 +6,7 @@ I am a Computer Science student from the University of Tennessee at Martin.
 My current intrests include web devlopment, information technology, and game design.
 
 ### Links
-- [Resume](https://jimrdepr.github.io/Resum.pdf)
+- [Resume](https://jimrdepr.github.io/Resume.pdf)
 - [Github](https://jimrdepr.github.io/mark-the-mighty)
 - [LinkedIn](https://jimrdepr.github.io/mark-the-mighty)
 
