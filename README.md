@@ -9,5 +9,5 @@ My current intrests include web devlopment, information technology, and game des
 
 
 ### Projects
-#### Mark the Mighty [here](https://jimrdepr.github.io/mark-the-mighty)
+#### [Mark the Mighty](https://jimrdepr.github.io/mark-the-mighty)
 #### Galaga R + C
