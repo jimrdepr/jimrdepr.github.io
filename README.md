@@ -6,9 +6,9 @@ I'm currently living in Alamo, TN.
 My current intrests include web devlopment, information technology, and game design.
 
 ### Links
-- [Resume](https://jimrdepr.github.io/Resume.pdf)
-- [Github](https://github.com/jimrdepr)
-- [LinkedIn](https://linkedin.com/in/randy-depriest-674678220/)
+- [My Resume](https://jimrdepr.github.io/Resume.pdf)
+- [My Github](https://github.com/jimrdepr)
+- [My LinkedIn](https://linkedin.com/in/randy-depriest-674678220/)
 
 
 ### Projects
